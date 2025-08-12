@@ -172,7 +172,7 @@ This project is private and proprietary. All rights reserved.
 
 ## 📧 Contact
 
-- **Email**: valcano103@gmail.com
+- **Email**: metaversy.world@gmail.com
 - **Project**: Paranoma
 
 ## 🙏 Acknowledgments
